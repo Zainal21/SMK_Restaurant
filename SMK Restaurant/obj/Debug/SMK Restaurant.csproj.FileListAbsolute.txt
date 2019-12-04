@@ -1,0 +1,24 @@
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\bin\Debug\SMK Restaurant.exe.config
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\bin\Debug\SMK Restaurant.exe
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\bin\Debug\SMK Restaurant.pdb
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmLogin.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.exe
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.pdb
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmAdminNavigation.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmCashierNavigation.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmChangePassword.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmChefNavigation.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmManageEmployee.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmManageMember.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmManageMenu.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmOrder.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmPayment.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmViewOrder.resources
+C:\Users\ADMIN\source\repos\SMK Restaurant\SMK Restaurant\obj\Debug\SMK_Restaurant.FrmAmmountCash.resources
+D:\VIDEO BAHAN\Latihan LKS\it-software-kota_tangerang-2019-master\Saiful\1 Syaiful\SMK Restaurant\SMK Restaurant\bin\Debug\SMK Restaurant.exe.config
+D:\VIDEO BAHAN\Latihan LKS\it-software-kota_tangerang-2019-master\Saiful\1 Syaiful\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.exe
+D:\VIDEO BAHAN\Latihan LKS\it-software-kota_tangerang-2019-master\Saiful\1 Syaiful\SMK Restaurant\SMK Restaurant\obj\Debug\SMK Restaurant.pdb
